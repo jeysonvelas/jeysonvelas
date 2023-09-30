@@ -1,14 +1,8 @@
 ### Hi there 👋
 ## Hola 👋
-Soy Jeyson velasquez, Developer Junior apasionado por aprender dia a dia nuevas tecnologias y sumar experiencias en este campo tan extenso.
+Soy Jeyson velasquez Developer Junior, apasionado al mundo de la programación y con ganas de seguir aprendiendo mas cada dia.
 
 <!--
-**LaMalditaProgramadora/LaMalditaProgramadora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-En resumen, puedo convertir café en código ☕.
-
-Here are some ideas to get you started:
-## Lenguajes de Programación
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -18,22 +12,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Lenguajes de Programación
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-8A2BE2)
+![PHP](https://img.shields.io/badge/php-8A2BE2.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ## Tecnologías y Frameworks
+
 ### Backend
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 
 ### Frontend
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![BootStrap](https://img.shields.io/badge/bootstrap-8A2BE2.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## Herramientas
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-ff8000.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 
 ## Redes Sociales
