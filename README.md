@@ -17,16 +17,19 @@ Soy Jeyson velasquez Developer Junior, apasionado al mundo de la programación y
 <!--tech stack icons-->
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,powershell&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,js,spring,html,css,bootstrap,mysql,postgres&perline=14" />
   </a>
 </p>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=idea,vscode,docker,postman,git,github,powershell&perline=14" />
   </a>
 </p>
 
 
-## Redes Sociales
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeysonvelasquez/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jeysonvelasquezvasquez/)
+<h2 align="center"> Mis redes. </h2> 
+<!--tech stack icons-->
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=linkedin,instagram&perline=14" />
+  </a>
