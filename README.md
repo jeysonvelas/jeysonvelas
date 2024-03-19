@@ -13,24 +13,18 @@ Soy Jeyson velasquez Developer Junior, apasionado al mundo de la programación y
 - ⚡ Fun fact: ...
 -->
 
-## Lenguajes de Programación
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/php-8A2BE2.svg?style=for-the-badge&logo=java&logoColor=white)
-
-## Tecnologías y Frameworks
-
-### Backend
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-
-### Frontend
-![BootStrap](https://img.shields.io/badge/bootstrap-8A2BE2.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-## Herramientas
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-ff8000.svg?style=for-the-badge&logo=postman&logoColor=white)
+<h2 align="center"> Lenguajes de Programación y Tecnologias. </h2> 
+<!--tech stack icons-->
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,powershell&perline=14" />
+  </a>
+</p>
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,vscode&perline=14" />
+  </a>
+</p>
 
 
 ## Redes Sociales
