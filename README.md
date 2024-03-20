@@ -1,8 +1,9 @@
 ### Hi there 👋
 ## Hola 👋
-Soy Jeyson velasquez Developer Junior, apasionado al mundo de la programación y con ganas de seguir aprendiendo mas cada dia.
-Cuento con conocimiento en Desarrollo Web con PHP/Java utilizando Framework del mercado como Bootstrap y Spring. Se resolver problemas complejos haciendo las preguntas correctas y buscando documentación en internet.
-Me apasiona el autoaprendizaje constante, las nuevas tecnologías de desarrollo y el trabajo en equipo utilizando metodologías agiles.
+Soy Jeyson velasquez Developer Junior, apasionado al mundo de la programación y con ganas de seguir aprendiendo mas cada dia.<br>
+Cuento con conocimientso en Desarrollo Web con los lenguajes Java,JavaScript y PHP; usando y aplicando metodologias agiles <Br>
+Se resolver problemas complejos, haciendo las preguntas correctas y buscando documentación en internet.<Br>
+Me apasiona el autoaprendizaje constante, las nuevas tecnologías de desarrollo y el trabajo en equipo.
 
 <h2 align="center"> Lenguajes de Programación y Tecnologias. </h2> 
 <!--tech stack icons-->
