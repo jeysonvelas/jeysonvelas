@@ -3,7 +3,7 @@
 ![Untitled ‑ Made with FlexClip (1)](https://github.com/jeysonvelas/jeysonvelas/assets/92001210/fc2896b0-49a3-4437-bfa7-f2779a575866)
 
 
-Mi nombre es Jeyson, un Developer Junior apasionado al mundo de la programación y con ganas de seguir aprendiendo mas cada dia.<br>
+soy jeyson velasquez un Developer Junior apasionado al mundo de la programación y con ganas de seguir aprendiendo mas cada dia.<br>
 Cuento con conocimientso en Desarrollo Web con los lenguajes Java,JavaScript y PHP; usando y aplicando metodologias agiles <Br>
 Se resolver problemas complejos, haciendo las preguntas correctas y buscando documentación en internet.<Br>
 Me apasiona el autoaprendizaje constante, las nuevas tecnologías de desarrollo y el trabajo en equipo.
