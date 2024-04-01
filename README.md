@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">
+Hi, There!
+	<a href="https://github.com/Bouaskaoun" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1>
 
 ![Untitled ‑ Made with FlexClip (1)](https://github.com/jeysonvelas/jeysonvelas/assets/92001210/fc2896b0-49a3-4437-bfa7-f2779a575866)
 
