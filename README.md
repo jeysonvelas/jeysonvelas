@@ -9,7 +9,7 @@ Hi, There!
 
 
 Soy Jeyson velasquez, Developer apasionado en el mundo de la programación y con ganas de seguir aprendiendo mas cada dia.<br>
-Cuento con conocimientso en Desarrollo Web con los lenguajes Java, JavaScript y PHP; usando y aplicando metodologias agiles. <Br>
+Cuento con conocimiento y experiencia en Desarrollo Web con los lenguajes Java, JavaScript y PHP; aplicando metodologias agiles. <Br>
 Se resolver problemas complejos, haciendo las preguntas correctas y buscando documentación en internet.<Br>
 Me apasiona el autoaprendizaje constante, las nuevas tecnologías de desarrollo y el trabajo en equipo.
 
